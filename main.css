@@ -1,0 +1,36 @@
+
+.solid{
+  /* width: 500px; */
+  border:1px solid red;
+}
+.background-col{
+  background-color: aliceblue;
+
+}
+.contain-color{
+  background-color:white;
+  
+}
+.drection-color{
+  color:cornflowerblue;
+}
+.chap{
+  
+    border-bottom:2px solid cornflowerblue;
+}
+
+.pictu{
+  float:left;
+  
+}
+.flex-loca{
+ 
+}
+.padd{
+  padding-right: 70px;
+  padding-left: 30px;
+  
+}
+.coulm-line{
+  border-left:1px solid gainsboro;
+}
